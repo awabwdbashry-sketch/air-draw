@@ -256,3 +256,8 @@ You are free to study, understand, modify, and improve the project according to 
 ---
 
 ⭐ If you like this project, consider giving the repository a Star.
+## 👨‍💻 Developer
+
+**Awab Bashary | AwabBuilds**
+
+GitHub: **awabwdbashry-sketch**
